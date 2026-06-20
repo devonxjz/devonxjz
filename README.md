@@ -1,13 +1,6 @@
 # Trần Lê Thái - Devonxjz
-
 ## About me
-
 I am a IT student at Ho Chi Minh City University of Technology and Education (HCMUTE), specializing in Backend Engineering and Information Security.
-
-My primary focus is building scalable backend systems using Java, Spring Boot, TypeScript, and modern database technologies. Alongside software engineering, I actively study Web Security, OWASP Top 10, Secure Coding practices, and Penetration Testing fundamentals.
-
-I enjoy turning ideas into practical products, ranging from AI-powered platforms and real-time systems to IoT security solutions.
-
 ## GitHub Stats 📊
 
 ![GitHub Stats](https://github-readme-stats-ivory-xi-62.vercel.app/api?username=devonxjz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&icon_color=39FF14&ring_color=39FF14)
