@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td valign="top" width="200">
-      <img src="./avatar.png" width="200" style="border-radius: 15px;" alt="Avatar" />
+      <img src="./avatar2.png" width="200" style="border-radius: 15px;" alt="Avatar" />
     </td>
     <td valign="top">
       <h1>Trần Lê Thái - Devonxjz</h1>
