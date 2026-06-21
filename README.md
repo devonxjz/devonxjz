@@ -1,7 +1,7 @@
 # Trần Lê Thái - Devonxjz
 ## About me
 I am a IT student at Ho Chi Minh City University of Technology and Education (HCMUTE), specializing in Backend Engineering and Information Security.
-## GitHub Stats 📊
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo" />
