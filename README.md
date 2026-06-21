@@ -47,7 +47,7 @@ I am a IT student at Ho Chi Minh City University of Technology and Education (HC
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
   <img width="12" />
 
-  <img src="https://skillicons.dev/icons?i=mssql" height="40" alt="sql server logo" />
+  <img src="https://skillicons.dev/icons?i=sqlserver" height="40" alt="sql server logo" />
   <img width="12" />
 
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
@@ -67,10 +67,10 @@ I am a IT student at Ho Chi Minh City University of Technology and Education (HC
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo" />
   <img width="12" />
 
-  <img src="https://cdn.simpleicons.org/railway" height="40" alt="railway logo" />
+  <img src="https://cdn.simpleicons.org/railway/white" height="40" alt="railway logo" />
   <img width="12" />
 
-  <img src="https://cdn.simpleicons.org/render" height="40" alt="render logo" />
+  <img src="https://cdn.simpleicons.org/render/white" height="40" alt="render logo" />
 </div>
 
 
@@ -85,10 +85,10 @@ I am a IT student at Ho Chi Minh City University of Technology and Education (HC
   <img src="https://cdn.simpleicons.org/hackthebox" height="40" alt="hack the box logo" />
   <img width="12" />
 
-  <img src="https://cdn.simpleicons.org/rootme" height="40" alt="root-me logo" />
+  <img src="https://cdn.simpleicons.org/rootme/white" height="40" alt="root-me logo" />
   <img width="12" />
 
-  <img src="https://cyberjutsu.io/logo_cyberjutsu.png" height="40" alt="cyberjutsu logo" />
+  <img src="https://avatars.githubusercontent.com/u/67725199?v=4" height="40" alt="cyberjutsu logo" />
 </div>
 
 
