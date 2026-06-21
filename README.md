@@ -76,7 +76,7 @@ I am a IT student at Ho Chi Minh City University of Technology and Education (HC
   <img src="https://cdn.simpleicons.org/burpsuite" height="40" alt="burp suite logo" />
   <img width="12" />
 
-  <img src="https://cdn.simpleicons.org/tryhackme" height="40" alt="tryhackme logo" />
+  <img src="https://cdn.simpleicons.org/tryhackme/white" height="40" alt="tryhackme logo" />
   <img width="12" />
 
   <img src="https://cdn.simpleicons.org/hackthebox" height="40" alt="hack the box logo" />
