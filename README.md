@@ -2,7 +2,7 @@
 ## About me
 I am a IT student at Ho Chi Minh City University of Technology and Education (HCMUTE), specializing in Backend Engineering and Information Security.
 
-
+## Most languages 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo" />
   <img width="12" />
@@ -27,6 +27,46 @@ I am a IT student at Ho Chi Minh City University of Technology and Education (HC
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" height="40" alt="c logo" />
 </div>
+
+## Frameworks & Runtimes
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring boot logo" />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo" />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
+</div>
+
+## Databases
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=mssql" height="40" alt="sql server logo" />
+</div>
+
+## Cyber Security & Hacking Platforms
+<div align="left">
+  <img src="https://cdn.simpleicons.org/burpsuite" height="40" alt="burp suite logo" />
+  <img width="12" />
+
+  <img src="https://cdn.simpleicons.org/tryhackme" height="40" alt="tryhackme logo" />
+  <img width="12" />
+
+  <img src="https://cdn.simpleicons.org/hackthebox" height="40" alt="hack the box logo" />
+  <img width="12" />
+
+  <img src="https://cdn.simpleicons.org/rootme" height="40" alt="root-me logo" />
+  <img width="12" />
+
+  <img src="https://cyberjutsu.io/logo_cyberjutsu.png" height="40" alt="cyberjutsu logo" />
+</div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devonxjz/devonxjz/output/github-snake-dark.svg">
