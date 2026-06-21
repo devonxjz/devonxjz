@@ -28,7 +28,10 @@ I am a IT student at Ho Chi Minh City University of Technology and Education (HC
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" height="40" alt="c logo" />
 </div>
 
-<img src="https://raw.githubusercontent.com/devonxjz/devonxjz/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devonxjz/devonxjz/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/devonxjz/devonxjz/output/github-snake.svg" alt="Snake animation">
+</picture>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=devonxjz&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E)
 
