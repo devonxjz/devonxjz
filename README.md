@@ -47,9 +47,6 @@ I am a IT student at Ho Chi Minh City University of Technology and Education (HC
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
   <img width="12" />
 
-  <img src="https://skillicons.dev/icons?i=sqlserver" height="40" alt="sql server logo" />
-  <img width="12" />
-
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
 </div>
 
