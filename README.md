@@ -1,6 +1,16 @@
-# Trần Lê Thái - Devonxjz
-## About me
-I am a IT student at Ho Chi Minh City University of Technology and Education (HCMUTE), specializing in Backend Engineering and Information Security.
+<table>
+  <tr>
+    <td valign="top" width="200">
+      <img src="./avatar.png" width="200" style="border-radius: 15px;" alt="Avatar" />
+    </td>
+    <td valign="top">
+      <h1>Trần Lê Thái - Devonxjz</h1>
+      <h3>About me</h3>
+      <p>I am a IT student at Ho Chi Minh City University of Technology and Education (HCMUTE), specializing in Backend Engineering and Information Security.</p>
+    </td>
+  </tr>
+</table>
+
 
 ## Most languages 
 <div align="left">
