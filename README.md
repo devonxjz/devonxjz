@@ -48,7 +48,31 @@ I am a IT student at Ho Chi Minh City University of Technology and Education (HC
   <img width="12" />
 
   <img src="https://skillicons.dev/icons?i=mssql" height="40" alt="sql server logo" />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
 </div>
+
+## Tools & Cloud Hosting
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo" />
+  <img width="12" />
+
+  <img src="https://cdn.simpleicons.org/railway" height="40" alt="railway logo" />
+  <img width="12" />
+
+  <img src="https://cdn.simpleicons.org/render" height="40" alt="render logo" />
+</div>
+
 
 ## Cyber Security & Hacking Platforms
 <div align="left">
