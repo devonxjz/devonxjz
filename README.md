@@ -14,70 +14,22 @@
 
 ## Most languages 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" alt="cplusplus logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" height="40" alt="c logo" />
+  <img src="./languages.svg" width="100%" height="50" alt="Most Languages" />
 </div>
 
 ## Frameworks & Runtimes
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring boot logo" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
+  <img src="./frameworks.svg" width="100%" height="50" alt="Frameworks & Runtimes" />
 </div>
 
 ## Databases
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
+  <img src="./databases.svg" width="100%" height="50" alt="Databases" />
 </div>
 
 ## Tools & Cloud Hosting
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo" />
-  <img width="12" />
-
-  <img src="https://cdn.simpleicons.org/railway/white" height="40" alt="railway logo" />
-  <img width="12" />
-
-  <img src="https://cdn.simpleicons.org/render/white" height="40" alt="render logo" />
+  <img src="./tools.svg" width="100%" height="50" alt="Tools & Cloud Hosting" />
 </div>
 
 
