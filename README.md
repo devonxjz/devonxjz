@@ -1,63 +1,79 @@
-<table>
-  <tr>
-    <td valign="top" width="200">
-      <img src="./avatar.jpg" width="200" style="border-radius: 15px;" alt="Avatar" />
-    </td>
-    <td valign="top">
-      <h1>Trần Lê Thái - Devonxjz</h1>
-      <h3>About me</h3>
-      <p>I am a IT student at Ho Chi Minh City University of Technology and Education (HCMUTE), specializing in Backend Engineering and Information Security.</p>
-    </td>
-  </tr>
-</table>
+# Trần Lê Thái
 
+**Backend Engineer | AI Engineer | Security-Minded Developer**
 
-## Most languages 
-<div align="left">
-  <img src="./languages.svg" width="100%" height="50" alt="Most Languages" />
-</div>
+Information Technology student at Ho Chi Minh City University of Technology and Education
+(HCMUTE), focused on backend engineering, AI-powered applications, agentic AI systems, and
+information security.
 
-## Frameworks & Runtimes
-<div align="left">
-  <img src="./frameworks.svg" width="100%" height="50" alt="Frameworks & Runtimes" />
-</div>
+## Professional profile
 
-## Databases
-<div align="left">
-  <img src="./databases.svg" width="100%" height="50" alt="Databases" />
-</div>
+I build software from both an engineering and security perspective. My main interests are
+backend services, APIs, data systems, AI integrations, and automation through intelligent
+agents.
 
-## Tools & Cloud Hosting
-<div align="left">
-  <img src="./tools.svg" width="100%" height="50" alt="Tools & Cloud Hosting" />
-</div>
+I am particularly interested in creating reliable systems that combine strong backend
+foundations with practical AI capabilities: clear tool boundaries, controlled execution,
+useful memory, observable workflows, and secure-by-design behavior.
 
+## Areas of experience
 
-## Cyber Security & Hacking Platforms
-<div align="left">
-  <img src="https://cdn.simpleicons.org/burpsuite" height="40" alt="burp suite logo" />
-  <img width="12" />
+### Backend engineering
 
-  <img src="https://cdn.simpleicons.org/tryhackme/white" height="40" alt="tryhackme logo" />
-  <img width="12" />
+- Designing and developing server-side applications and REST APIs.
+- Working with data persistence, SQL/NoSQL databases, and service-layer architecture.
+- Building maintainable systems with attention to reliability, debugging, and clean code.
+- Using Git-based workflows and containerized development environments.
 
-  <img src="https://cdn.simpleicons.org/hackthebox" height="40" alt="hack the box logo" />
-  <img width="12" />
+### AI engineering and agentic AI
 
-  <img src="https://cdn.simpleicons.org/rootme/white" height="40" alt="root-me logo" />
-  <img width="12" />
+- Building AI-powered applications and agentic workflows for multi-step task execution.
+- Designing agents that reason about a task, select tools, call external services, and return
+  structured results.
+- Integrating language-model capabilities into backend services and APIs.
+- Exploring agent memory, state management, prompt design, tool orchestration, guardrails,
+  evaluation, and observability.
+- Applying security-minded thinking to AI systems, including permission boundaries, input
+  validation, and safe tool execution.
 
-  <img src="https://avatars.githubusercontent.com/u/67725199?v=4" height="40" alt="cyberjutsu logo" />
-</div>
+### Information security
 
+- Practicing web application security and vulnerability analysis through hands-on labs.
+- Studying attack surfaces, secure coding principles, and defensive engineering practices.
+- Using Burp Suite, TryHackMe, Hack The Box, Root-Me, and CyberJutsu for practical learning.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devonxjz/devonxjz/output/github-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/devonxjz/devonxjz/output/github-snake.svg" alt="Snake animation">
-</picture>
+## Technical skills
 
-## GitHub Streak
+### Programming languages
 
-![GitHub Streak](https://streak-stats.demolab.com?user=devonxjz&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E)
+Java, Python, JavaScript, TypeScript, C, C++, HTML5, CSS3
 
+### Frameworks and runtimes
+
+Spring, NestJS, Node.js
+
+### Databases
+
+PostgreSQL, MongoDB, MySQL, SQL/NoSQL data modeling
+
+### Tools and platforms
+
+Git, GitHub, Docker, Vercel
+
+### Engineering interests
+
+Backend architecture, API design, AI agents, LLM applications, tool calling, workflow
+orchestration, application security, automation, and cloud-native development.
+
+## Education
+
+**Ho Chi Minh City University of Technology and Education (HCMUTE)**<br />
+Information Technology<br />
+Focus: Backend Engineering and Information Security
+
+## Career direction
+
+I am looking for opportunities in backend engineering, AI engineering, agentic AI, or
+application security where I can contribute to real products, learn from experienced
+engineers, and build systems that are useful, maintainable, and secure.
 
