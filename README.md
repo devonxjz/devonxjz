@@ -2,6 +2,8 @@
 
 **Backend Engineer | AI Engineer | Security-Minded Developer**
 
+🔗 **CV / Portfolio:** [https://cv-one-wheat.vercel.app/](https://cv-one-wheat.vercel.app/)
+
 Information Technology student at Ho Chi Minh City University of Technology and Education
 (HCMUTE), focused on backend engineering, AI-powered applications, agentic AI systems, and
 information security.
